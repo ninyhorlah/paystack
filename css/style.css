@@ -1,0 +1,252 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ng-img {
+    background-image: url(/./assets/img/icon/flags/4x3/ng.svg);
+}
+
+nav a{
+    padding: 16px 14px;
+    text-decoration: none;
+    color: rgb(85, 78, 78);
+    font-weight: bold;
+    
+}
+nav li {
+    display: inline;
+    
+}
+
+.nav-left{
+    padding-top: 20px;
+}
+.nav-right{
+
+    float: right !important;
+    padding-top: 0px;
+    margin-top: 0;
+}
+
+.btn {
+    border: 2px thin;
+    padding: 8px 15px;
+    background-color: rgb(87, 202, 87); 
+    border-radius: 6px;
+    color: white;
+}
+
+button  {
+
+   padding: 16px;
+   background-color: rgb(80, 182, 80);
+   opacity: 0.8;
+   border-radius: 8px;
+}
+button a {
+    text-decoration: none;
+    color: white;
+    font-family:  sans-serif;
+    font-size: large;
+}
+ul {
+    list-style: none;
+}
+.first-container {
+    background-color: rgb(232, 255, 232);
+}
+
+.modern{
+    padding: 200px 50px;
+}
+
+
+.trusted img {
+    padding: 10px ;
+    padding-top: 0;
+}
+
+.top-trust ul {
+    display: flex;
+}
+.trust-right {
+    margin-left: 300px;
+}
+.trust-right i {
+    color: rgb(46, 177, 221);
+}
+
+.simple{
+    margin: 100px 50px;
+}
+ .second-container h2{
+    font-size: 35px;
+}
+p{
+    font-size: large;
+}
+.first-flex ul{
+    display: flex;
+    margin: 1em 0;
+}
+.first-flex a{
+    text-decoration: none;
+    color: rgb(44, 201, 44);
+    opacity: 0.8;
+}
+
+.second-flex {
+    background: rgba(173, 216, 230, .2);
+   
+      
+}
+.second-flex h1 {
+    font-size: 50px;
+    margin-left : 70px;
+    margin-bottom: 0;
+    padding-top: 150px;
+    
+}
+
+.second-flex-child p {
+    margin-left: 70px;
+    font-size: 25px;
+}
+.second-flex ul {
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 40px;
+    margin-right: 70px;
+}
+
+.second-flex li {
+    margin: 10px;
+    margin-bottom: 200px;
+    
+    background-color: white;
+    padding: 40px;
+    display: block;
+    border-radius: 6px;
+}
+
+.container a {
+    text-decoration: none;
+    color: rgb(61, 58, 58);
+}
+.container a:hover {
+    color: rgb(104, 192, 104);
+}
+.child ul {
+    border-top: 60px;
+}
+
+.power img {
+    
+    padding : 50px;
+    padding-bottom: 0;
+    
+}
+.power {
+    margin-bottom: 200px;
+    margin-left: 20px;
+}
+
+.power h1 {
+    font-size: 50px;
+    padding-top: 100px;
+    margin-left: 50px;
+}
+
+.power p {
+    margin-left: 50px;
+}
+.headshot ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    
+}
+.headshot img {
+    width: 70px;
+    border-radius: 50%;
+    border-bottom: 0;
+}
+.headshot li {
+    padding: 5px;
+    border-width: 10px;
+    
+}
+.mother-head {
+    display: flex;
+    
+    margin: 10px;
+    
+}
+
+.overhead {
+    background-color: rgb(240, 243, 247);
+}
+.overhead h2  {
+    font-size: 45px;
+    margin-bottom: 0 !important;
+    padding-top: 150px;
+    margin-left: 70px;
+}
+
+.overhead p {
+    font-size: 20px;
+   
+}
+
+.paystack ul{
+    display: inline-flex;
+}
+.flex-foot a{
+    padding-bottom: 150px;
+    text-decoration: none;
+    color: rgb(43, 41, 41);
+}
+.flex-foot a:hover{
+    color: rgb(70, 169, 202);
+}
+
+.flex-foot h4 {
+    font-size: large;
+    padding-bottom: 0;
+}
+.paystack p {
+    padding-top: 130px;
+    padding-left: 50px;
+    
+}
+.paystack h3 {
+    padding-left: 50px;
+    font-size: 47px;
+    padding-top: 0 !important;
+}
+.paystack-btn {
+    padding-left: 370px;
+    padding-top: 230px;
+}
+.paystack {
+    padding-bottom: 50px;
+}
+hr {
+    margin: 45px;
+    
+}
+footer ul {
+    display: flex;
+    
+}
+footer li a{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+ footer li {
+     padding-left: 50px;
+ }
+ 
